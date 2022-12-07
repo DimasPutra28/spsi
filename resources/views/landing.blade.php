@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Yummy Bootstrap Template - Index</title>
+  <title>WO N3UNIQUE</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -70,6 +70,7 @@
       <!-- .navbar -->
 
       <a type="button" class="btn btn-outline-border-primary" style="border-radius: 20px; border-color: #E9B8AC; color: #E9B8AC">Login </a>
+
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
 
@@ -82,10 +83,31 @@
         {{-- <div class="p-3 mb-2 bg-light text-dark">.bg-light</div> --}}
 
       <div class="row justify-content-between gy-5">
-        <img src="/assets/img/utama.png" alt="  " >
+        {{-- <img src="/assets/img/utama.png" alt="  " > --}}
+        <h1>Let’s Create  </h1>
+        <h1>Beautiful Memories</h1>
+        <h1>Together!</h1>
 
-          {{-- <p data-aos="fade-up" data-aos-delay="100">Sed autem laudantium dolores. Voluptatem itaque ea consequatur eveniet. Eum quas beatae cumque eum quaerat.</p> --}}
-          <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="input-group mb-3">
+            <div class="dropdown">
+                <a class="btn btn-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Dropdown link
+                </a>
+
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">Action</a></li>
+                  <li><a class="dropdown-item" href="#">Another action</a></li>
+                  <li><a class="dropdown-item" href="#">Something else here</a></li>
+                </ul>
+              </div>
+            <input type="text" class="form-control" placeholder="" aria-label="Recipient's username" aria-describedby="basic-addon2">
+            <div class="input-group-append">
+              <button class="btn btn-outline-secondary" type="button"><i class="bi bi-search"></i></button>
+            </div>
+          </div>
+
+
 
             {{-- <a href="#book-a-table" class="btn-book-a-table">Book a Table</a>
             <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> --}}
@@ -106,15 +128,40 @@
 
         <div class="section-header">
           {{-- <h2>About Us</h2> --}}
-          <p> <span>About Us</span></p>
+          <div class="auto-group-jdhu-LcS" id="B2RBFm6nqnnLDxQByxJdhU">
+            <div class="group-172-q3Q" id="219:177">
+            <div class="rectangle-18-XS2" id="212:111"></div>
+            <p class="about-us-pR8" id="212:112">About Us,</p>
+            <div class="rectangle-19-gy8" id="212:113"></div>
+            <img class="rectangle-20-zD8" src="/api/try-prod-ap-southeast-1-first-cluster/project..." id="212:114"/>
+            <p class="n3unique-wedding-organizer-adalah-tim-wedding-coordinator-yang-bekerja-bersama-untuk-memberikan-pelayanan-jasa-pengorganisasian-segala-aktivitas-yang-berkaitan-dengan-kebutuhan-acara-pernikahan-kami-memahami-bagaimanapun-juga-pernikahan-hanya-sekali-dalam-seumur-hidup-maka-dari-itu-sangat-penting-dan-harus-berjalan-sukses-oleh-karena-itu-kami-n3unique-wo-team-bekerja-sepenuhnya-untuk-anda-gre" id="212:117">
+            N3Unique Wedding Organizer adalah tim wedding coordinator yang bekerja
+
+            <br/>
+            bersama untuk memberikan pelayanan jasa pengorganisasian segala aktivitas yang berkaitan dengan kebutuhan acara pernikahan.
+
+            <br/>
+            Kami memahami bagaimanapun juga pernikahan hanya sekali dalam seumur hidup, maka dari itu sangat penting dan harus berjalan sukses.
+
+            <br/>
+            Oleh karena itu, kami N3Unique WO team bekerja sepenuhnya untuk anda.
+
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            </p>
+            </div>
+
+          {{-- <p> <span>About Us</span></p>
         </div>
 
         <div class="row gy-4">
           <div class="col-lg-7 position-relative about-img" style="background-image: url(assets/img/abb.png) ;background-color: #B5C5C5" data-aos="fade-up" data-aos-delay="150">
-            <div class="call-us position-absolute">
+            <div class="call-us position-absolute"> --}}
               {{-- <h4>Book a Table</h4>
               <p>+1 5589 55488 55</p> --}}
-            </div>
+            {{-- </div>
           </div>
           <div class="col-lg-5 d-flex align-items-end" data-aos="fade-up" data-aos-delay="300">
             <div class="content ps-0 ps-lg-5">
@@ -124,7 +171,7 @@ bersama untuk memberikan pelayanan jasa pengorganisasian segala aktivitas yang b
  Kami memahami bagaimanapun juga  pernikahan hanya sekali dalam seumur hidup, maka dari itu sangat penting dan harus berjalan sukses.
  Oleh karena itu, kami N3Unique WO team bekerja sepenuhnya untuk anda.
 
-              </p>
+              </p> --}}
               {{-- <ul>
                 <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
                 <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
@@ -135,16 +182,16 @@ bersama untuk memberikan pelayanan jasa pengorganisasian segala aktivitas yang b
                 velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
               </p> --}}
 
-              <div class="position-relative mt-4">
+              {{-- <div class="position-relative mt-4"> --}}
                 {{-- <img src="assets/img/about-2.jpg" class="img-fluid" alt="">
                 <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a> --}}
-              </div>
+              {{-- </div>
             </div>
           </div>
         </div>
 
       </div>
-    </section><!-- End About Section -->
+    </section><!-- End About Section --> --}}
 
     <!-- ======= Why Us Section ======= -->
     <section id="why-us" class="why-us section-bg">

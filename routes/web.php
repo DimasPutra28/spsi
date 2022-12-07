@@ -21,6 +21,11 @@ Route::get('/dashboard', function () {
     return view('dashboard');
 });
 
-Route::get('/landing', function () {
+Route::get('/', function () {
     return view('landing');
+});
+
+
+Route::get('/login', function () {
+    return view('login');
 });
